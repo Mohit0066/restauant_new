@@ -177,6 +177,55 @@ body {
     color: white;
 }
 
+#menu {
+    padding: 25px 0 25px 0;
+}
+
+#section {
+    padding: 25px 0 25px 0;
+    text-align: center;
+    font-size: 2rem;
+    font-family: Verdana;
+}
+
+#main_row {
+    display: flex;
+    padding: 0 100px 0 100px;
+}
+
+#menu {
+    background-color: black;
+}
+
+#menu_col {
+    box-shadow: 2px 2px 2px #bbb;
+    border: 1px solid #bbb;
+    background-color: #fff;
+    margin: 5px;
+}
+
+span {
+    color: hsl(64, 98%, 59%)
+}
+
+#menu_col h2 {
+    color: hsl(64, 98%, 59%);
+    background-color: black;
+    line-height: 80px;
+    text-decoration: underline;
+    text-align: center;
+}
+
+#breakfast {
+    font-family: cursive;
+    background-color: black;
+}
+
+#breakfast h4 {
+    color: white;
+    text-align: center;
+}
+
 
 
 
